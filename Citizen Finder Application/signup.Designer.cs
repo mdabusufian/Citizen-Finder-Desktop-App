@@ -61,7 +61,7 @@ namespace Citizen_Finder_Application
             this.label1.ForeColor = System.Drawing.Color.Lime;
             this.label1.Location = new System.Drawing.Point(218, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(149, 76);
+            this.label1.Size = new System.Drawing.Size(148, 76);
             this.label1.TabIndex = 0;
             this.label1.Text = "Login";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -146,7 +146,7 @@ namespace Citizen_Finder_Application
             this.button1.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Image = global::Citizen_Finder_Application.Properties.Resources.ok_icon1;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(110, 413);
+            this.button1.Location = new System.Drawing.Point(98, 414);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(185, 53);
             this.button1.TabIndex = 4;
